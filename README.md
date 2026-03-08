@@ -48,9 +48,17 @@ Estudiante de desarrolo Front-end trainee apasionada por **construir interfases 
 
 ## Estadísticas
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=barbaracanario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barbaracanario&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=barbaracanario&theme=tokyonight)
+<div align="center">
+
+<p>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=barbaracanario&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barbaracanario&layout=compact&theme=tokyonight" />
+</p>
+
+<img height="165" src="https://streak-stats.demolab.com?user=barbaracanario&theme=tokyonight" />
+
+</div>
+
 
 ##  Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A1rbara-canario-844b993b5/)
