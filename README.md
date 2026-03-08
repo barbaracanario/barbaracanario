@@ -46,7 +46,7 @@ Estudiante de desarrolo Front-end trainee apasionada por **construir interfases 
 |  **Habilidades aplicadas** | Arquitectura basada en componentes Vue (Props, slots), Diseño responsivo, accesibilidad Báscia. |
 |  **¿Por qué lo elegí?** | Representa mi crecimiento de HTML/CSS básico a frontend moderno con Vue: dediqué más tiempo (iteraciones UI/UX), resuelve un problema real de e-commerce (grillas de productos), y alinea con roles junior en empresas como Soho (componentes para web retail). |
 
-## Estadísticas en Github
+## Estadísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaracanario&show_icons=true&theme=tokyonight)
 
