@@ -48,10 +48,9 @@ Estudiante de desarrolo Front-end trainee apasionada por **construir interfases 
 
 ## Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaracanario&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=barbaracanario&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaracanario&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=barbaracanario&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=barbaracanario&theme=tokyonight)
 
 ##  Conéctate conmigo
