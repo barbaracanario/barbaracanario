@@ -10,7 +10,6 @@ Estudiante de desarrollo Front-end trainee apasionada por **construir interfases
 + Intereses: UI/UX, Arquitectura de componentes, Creación de widgets, desarrollo web.
 - Contacto: [b.canariolorca@gmail.com](b.canariolorca@gmail.com)
 
-## Herramientas
 
 ## Tecnologías y herramientas
 
