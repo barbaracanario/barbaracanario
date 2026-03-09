@@ -29,7 +29,9 @@ Estudiante de desarrollo Front-end trainee apasionada por **construir interfases
 
 ## Aprendiendo 
 ![AngularJS](https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React Badge](https://img.shields.io)
+<p>
+<img src="https://img.shields.io" alt="React Badge"/>
+</p>
 
 
 ##  Proyectos destacados
