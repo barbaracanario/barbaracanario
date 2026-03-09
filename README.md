@@ -28,10 +28,9 @@ Estudiante de desarrollo Front-end trainee apasionada por **construir interfases
 </p>
 
 ## Aprendiendo 
-<p>
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-</p>
+![AngularJS](https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Badge](https://img.shields.io)
+
 
 ##  Proyectos destacados
 - **[E-commerce con Vue.js](https://github.com/barbaracanario/abp7_b_canario.git)**: Showcase de productos con carrito CRUD en Vue3 y Pinia.
