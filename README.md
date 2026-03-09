@@ -1,7 +1,7 @@
 # ¡Hola! Soy Bárbara Canario
 
 ## Sobre mí
-Estudiante de desarrolo Front-end trainee apasionada por **construir interfases web modernas, componentes y widgets reutilizables**. Me interesa la componetización  y actualmente construyo proyectos académicos como sistemas de gestión de libros y carritos de compra con APIs RESt en el cual se mantenga la base del componente reutilizable.
+Estudiante de desarrollo Front-end trainee apasionada por **construir interfases web modernas, componentes y widgets reutilizables**. Me interesa la componetización  y actualmente construyo proyectos académicos como sistemas de gestión de libros y carritos de compra con APIs RESt en el cual se mantenga la base del componente reutilizable.
 
 + Maipú, Santiago de Chile.
 + Frond-end Developer
@@ -38,12 +38,12 @@ Estudiante de desarrolo Front-end trainee apasionada por **construir interfases 
 | | |
 |---|---|
 |  **Descripción** |Aplicación web para mostrar un catálogo de productos de hogar, con tarjetas fijas, filtros básicos, El objetivo es crear una experiencia visual simple pero funcional para un E-commerce.|
-|  **Desafío principal** | Mantener un diseño consistente con cards de tamaño fijo, manjar estados de productos y estructurar componentes padre-hijo para escabilidad sin repetir código. |
-|  **Solución propuesta** | Implementación de componentes modulares, uso estrategico de CSS Grid/Flexbox para layout fijo/responsive, y eventos para interacciones. |
+|  **Desafío principal** | Mantener un diseño consistente con cards de tamaño fijo, manejar estados de productos y estructurar componentes padre-hijo para escalabilidad sin repetir código. |
+|  **Solución propuesta** | Implementación de componentes modulares, uso estratégico de CSS Grid/Flexbox para layout fijo/responsive, y eventos para interacciones. |
 |  **Herramientas utilizadas** | Vue.js (componentes, props, slots, lifecycle hooks). HTML5 semántico, CSS3 (Grid, Flexbox, metodologías BEM/SMACSS), bootstrap para base responsive, VS Code y Git para versionado. |
 |  **Aprendizajes alcanzados** | Comprensión de conceptos padre-hijo, la importancia de elementos modulares, flexibles con uso de slots y migrar a metodologías organizadas (BEM) |
-|  **Métricas de impacto** |Diseño responsivo con carga inicial optimizada, covertura de estados y reducción de codigo duplicado. |
-|  **Habilidades aplicadas** | Arquitectura basada en componentes Vue (Props, slots), Diseño responsivo, accesibilidad Báscia. |
+|  **Métricas de impacto** |Diseño responsivo con carga inicial optimizada, cobertura de estados y reducción de código duplicado. |
+|  **Habilidades aplicadas** | Arquitectura basada en componentes Vue (Props, slots), Diseño responsivo, accesibilidad Básica. |
 |  **¿Por qué lo elegí?** | Representa mi crecimiento de HTML/CSS básico a frontend moderno con Vue: dediqué más tiempo (iteraciones UI/UX), resuelve un problema real de e-commerce (grillas de productos), y alinea con roles junior en empresas como Soho (componentes para web retail). |
 
 ## Estadísticas
